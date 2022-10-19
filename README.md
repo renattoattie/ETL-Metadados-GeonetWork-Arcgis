@@ -5,7 +5,7 @@ Ações de Customização:
 1. Deve-se setar e criar a pasta que vai receber os metadados na
 transformação: trf_downloads_METADADOS
 
-2. Deve-se setar os parâmetros de URL na transformação: trf_downloads_METADADOS
+2. Deve-se setar os parâmetros da URL na transformação: trf_downloads_METADADOS
 
 3. Deve-se criar um banco no Postgres e setar sua conexão nas transformações:
 trf_atualiza_links_WMS_WFS_1
