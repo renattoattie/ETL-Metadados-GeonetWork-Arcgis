@@ -1,4 +1,12 @@
-Este ETL foi feito usando Pentaho Data Integration - PDI.
+ETL usando Pentaho Data Integration - PDI para captura de Metadados do ARCGIS
+Enterprise.
+
+Essa rotina foi utlizada para capturar dados públicos da api REST ARCGIS
+do SISDIA 
+
+Esse sistema está sobre a administração da SEMA-DF.
+
+No entanto, pode ser utilizado para qualquer API REST do ARCGIS.
 
 Ações de Customização:
 
